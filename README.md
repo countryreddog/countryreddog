@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @countryreddog,im starting college jan 2nd online and am shooting to get bmy bach.degree in computer science.
+- 👋 Hi, I’m @countryreddog,im starting college jan 2nd online and am shooting to get my bach.degree in computer science.
 - 👀 I’m interested in ...Learning all I can about coding and developing 
 - 🌱 I’m currently learning ...the very basics on full stack.
 - 💞️ I’m looking to collaborate on ...everything possible.
